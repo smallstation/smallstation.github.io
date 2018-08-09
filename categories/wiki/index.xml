@@ -1,27 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小站</title>
-    <link>https://smallstation.github.io/</link>
-    <description>Recent content on 小站</description>
+    <title>Wiki on 小站</title>
+    <link>https://smallstation.github.io/categories/wiki/</link>
+    <description>Recent content in Wiki on 小站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
-    <lastBuildDate>Thu, 09 Aug 2018 10:09:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 09 Aug 2018 10:09:09 +0800</lastBuildDate>
     
-	<atom:link href="https://smallstation.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smallstation.github.io/categories/wiki/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Goodidea</title>
-      <link>https://smallstation.github.io/post/goodidea/</link>
-      <pubDate>Thu, 09 Aug 2018 10:09:19 +0800</pubDate>
-      
-      <guid>https://smallstation.github.io/post/goodidea/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>Wiki</title>
@@ -29,17 +18,6 @@
       <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
       
       <guid>https://smallstation.github.io/post/wiki/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Idea</title>
-      <link>https://smallstation.github.io/post/idea/</link>
-      <pubDate>Thu, 09 Aug 2018 10:08:42 +0800</pubDate>
-      
-      <guid>https://smallstation.github.io/post/idea/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
