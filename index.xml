@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Links</title>
-      <link>https://smallstation.github.io/links/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://smallstation.github.io/links/</guid>
-      <description>OPC and her friends.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>https://smallstation.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -36,6 +27,15 @@
     </item>
     
     <item>
+      <title>Links</title>
+      <link>https://smallstation.github.io/links/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://smallstation.github.io/links/</guid>
+      <description>OPC and her friends.</description>
+    </item>
+    
+    <item>
       <title>Goodidea</title>
       <link>https://smallstation.github.io/post/goodidea/</link>
       <pubDate>Thu, 09 Aug 2018 10:09:19 +0800</pubDate>
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Wiki</title>
+      <title>关于算法应该了解的那些事儿</title>
       <link>https://smallstation.github.io/post/algorithmengineer/</link>
       <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
       
