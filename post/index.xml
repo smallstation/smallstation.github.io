@@ -24,23 +24,32 @@
     </item>
     
     <item>
-      <title>关于算法应该了解的那些事儿</title>
-      <link>https://smallstation.github.io/post/algorithmengineer/</link>
+      <title>关于Emotions</title>
+      <link>https://smallstation.github.io/post/emotions1/</link>
       <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/post/algorithmengineer/</guid>
+      <guid>https://smallstation.github.io/post/emotions1/</guid>
+      <description>&lt;p&gt;testing&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于Memo</title>
+      <link>https://smallstation.github.io/post/memo1/</link>
+      <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
+      
+      <guid>https://smallstation.github.io/post/memo1/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>大数据相关知识汇总</title>
-      <link>https://smallstation.github.io/post/bigdataengineer/</link>
+      <title>关于Travel</title>
+      <link>https://smallstation.github.io/post/travel2/</link>
       <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/post/bigdataengineer/</guid>
-      <description>&lt;p&gt;大数据相关知识汇总，为非技术职位理解基本的大数据概念提供帮助.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>https://smallstation.github.io/post/travel2/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,12 +64,12 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>https://smallstation.github.io/post/androidengineer/</link>
+      <title>Haha</title>
+      <link>https://smallstation.github.io/post/techfunction/</link>
       <pubDate>Thu, 09 Aug 2018 09:39:53 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/post/androidengineer/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
+      <guid>https://smallstation.github.io/post/techfunction/</guid>
+      <description>&lt;p&gt;Haha&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
@@ -77,23 +86,12 @@
     </item>
     
     <item>
-      <title>UI/UE/UX职位的区别</title>
-      <link>https://smallstation.github.io/post/uiueux/</link>
+      <title>关于Career</title>
+      <link>https://smallstation.github.io/post/career1/</link>
       <pubDate>Thu, 09 Aug 2018 09:39:53 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/post/uiueux/</guid>
+      <guid>https://smallstation.github.io/post/career1/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>技术岗位职能划分</title>
-      <link>https://smallstation.github.io/post/techfunction/</link>
-      <pubDate>Thu, 09 Aug 2018 09:39:53 +0800</pubDate>
-      
-      <guid>https://smallstation.github.io/post/techfunction/</guid>
-      <description>&lt;p&gt;梳理互联网行业主流公司的技术职能岗位的设置及分布情况.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

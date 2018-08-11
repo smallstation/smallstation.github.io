@@ -18,12 +18,17 @@
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/post/algorithmengineer/</loc>
+    <loc>https://smallstation.github.io/post/emotions1/</loc>
     <lastmod>2018-08-09T10:09:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/post/bigdataengineer/</loc>
+    <loc>https://smallstation.github.io/post/memo1/</loc>
+    <lastmod>2018-08-09T10:09:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smallstation.github.io/post/travel2/</loc>
     <lastmod>2018-08-09T10:09:09+08:00</lastmod>
   </url>
   
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/post/androidengineer/</loc>
+    <loc>https://smallstation.github.io/post/techfunction/</loc>
     <lastmod>2018-08-09T09:39:53+08:00</lastmod>
   </url>
   
@@ -43,34 +48,48 @@
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/post/uiueux/</loc>
+    <loc>https://smallstation.github.io/post/career1/</loc>
     <lastmod>2018-08-09T09:39:53+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/post/techfunction/</loc>
+    <loc>https://smallstation.github.io/tags/career/</loc>
     <lastmod>2018-08-09T09:39:53+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://smallstation.github.io/tags/algorithm/</loc>
-    <lastmod>2018-08-09T10:09:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/tags/bigdata/</loc>
-    <lastmod>2018-08-09T10:09:09+08:00</lastmod>
+    <loc>https://smallstation.github.io/categories/career/</loc>
+    <lastmod>2018-08-09T09:39:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://smallstation.github.io/categories/</loc>
+    <lastmod>2018-08-09T09:39:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/categories/idea/</loc>
+    <loc>https://smallstation.github.io/tags/emotions/</loc>
+    <lastmod>2018-08-09T10:09:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smallstation.github.io/categories/emotions/</loc>
+    <lastmod>2018-08-09T10:09:09+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smallstation.github.io/tags/memo/</loc>
+    <lastmod>2018-08-09T10:09:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smallstation.github.io/categories/memo/</loc>
     <lastmod>2018-08-09T10:09:19+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -82,25 +101,19 @@
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/tags/taga/</loc>
-    <lastmod>2018-08-09T10:09:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smallstation.github.io/tags/tagb/</loc>
-    <lastmod>2018-08-09T10:09:19+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://smallstation.github.io/tags/</loc>
+    <lastmod>2018-08-09T09:39:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smallstation.github.io/tags/travel/</loc>
     <lastmod>2018-08-09T10:09:09+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://smallstation.github.io/categories/wiki/</loc>
+    <loc>https://smallstation.github.io/categories/travel/</loc>
     <lastmod>2018-08-09T10:09:09+08:00</lastmod>
     <priority>0</priority>
   </url>

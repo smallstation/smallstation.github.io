@@ -7,25 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Thu, 09 Aug 2018 09:39:53 +0800</lastBuildDate>
     
 	<atom:link href="https://smallstation.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Idea</title>
-      <link>https://smallstation.github.io/categories/idea/</link>
-      <pubDate>Thu, 09 Aug 2018 10:09:19 +0800</pubDate>
+      <title>Career</title>
+      <link>https://smallstation.github.io/categories/career/</link>
+      <pubDate>Thu, 09 Aug 2018 09:39:53 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/categories/idea/</guid>
+      <guid>https://smallstation.github.io/categories/career/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Wiki</title>
-      <link>https://smallstation.github.io/categories/wiki/</link>
+      <title>Emotions</title>
+      <link>https://smallstation.github.io/categories/emotions/</link>
       <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
       
-      <guid>https://smallstation.github.io/categories/wiki/</guid>
+      <guid>https://smallstation.github.io/categories/emotions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memo</title>
+      <link>https://smallstation.github.io/categories/memo/</link>
+      <pubDate>Thu, 09 Aug 2018 10:09:19 +0800</pubDate>
+      
+      <guid>https://smallstation.github.io/categories/memo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://smallstation.github.io/categories/travel/</link>
+      <pubDate>Thu, 09 Aug 2018 10:09:09 +0800</pubDate>
+      
+      <guid>https://smallstation.github.io/categories/travel/</guid>
       <description></description>
     </item>
     
